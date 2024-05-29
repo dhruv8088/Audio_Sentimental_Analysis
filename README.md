@@ -27,3 +27,8 @@ data as well as the gender of the speaker.
    - Run the main script file that executes the sentiment analysis code.
    - Make sure to provide the necessary paths to the dataset and any other required resources   within your code.
 
+## PDF Link:
+https://drive.google.com/file/d/1-4VX9D5jdOAIjOvbXPc_Tmj6_XrfPx-e/view?usp=sharing
+
+## PPT Link:
+https://docs.google.com/presentation/d/1mH6BLP4a9KfOQQdmNsjMblCeFv3v69GY?rtpof=true&usp=drive_fs
