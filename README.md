@@ -12,3 +12,18 @@ waveforms of a sample audio file from the dataset. Then we extracted the feature
 Mel Frequency Cepstral Coefficients (MFCCs), chroma frequencies, MeI spectrogram and Spectral 
 centroid. Then we built a Multi-layer perceptron (MLP) model to predict the emotions of the audio 
 data as well as the gender of the speaker. 
+
+## Steps to Run:
+1. Download the Ravdess Dataset:
+   - Download the dataset (https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio).
+
+2. Install Dependencies:
+   - Ensure you have Python installed on your system.
+   - Install the necessary Python libraries by using pip command.
+     
+3. Run the Code:
+   - Open your Jupyter Notebook Python environment 
+   - Navigate to the directory where your code is stored.
+   - Run the main script file that executes the sentiment analysis code.
+   - Make sure to provide the necessary paths to the dataset and any other required resources   within your code.
+
